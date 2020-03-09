@@ -1,0 +1,25 @@
+add,commitのコマンドを追記
+
+講座3-4を受講した記録を記載したため。
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   first.txt
+#
+# ------------------------ >8 ------------------------
+# Do not modify or remove the line above.
+# Everything below it will be ignored.
+diff --git a/first.txt b/first.txt
+index 71289fb..69c8d4e 100644
+--- a/first.txt
++++ b/first.txt
+@@ -1,2 +1,5 @@
+ Gitを練習しています
+ 基本的なワークフローを勉強しています
++.git add
++.git commit
++

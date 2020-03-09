@@ -2,4 +2,4 @@ Gitを練習しています
 基本的なワークフローを勉強しています
 .git add
 .git commit
-
+.git re
