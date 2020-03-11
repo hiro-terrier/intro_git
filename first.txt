@@ -1,6 +1,7 @@
 Gitを練習しています
 基本的なワークフローを勉強しています
 .git add
+ウホッ
 .git commit
 .git re
 .git status
